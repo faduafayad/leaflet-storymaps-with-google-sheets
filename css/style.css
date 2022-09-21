@@ -29,10 +29,6 @@ body {
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
   overflow-x: hidden;
-  
-  
-  background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(184,70,252,1) 100%);
 }
 
 #top {
@@ -108,15 +104,12 @@ background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(184,70,252,1) 1
   font-size: 1.2em;
   padding: 0 5px;
   font-family: "Oswald", sans-serif;
-  
-  background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(184,70,252,1) 100%);
 }
 
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: purple;
 }
 a.source:visited {
   color: grey;
@@ -129,8 +122,6 @@ a.source:visited {
   padding: 20px;
   font-family: "Oswald", sans-serif;
   
-  background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(184,70,252,1) 100%);
 }
 
 .in-focus {
@@ -182,7 +173,6 @@ background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(184,70,252,1) 1
 h1 {
   margin: 50px;
   font-size: 1.5em;
-  font-family: "Oswald", sans-serif;
 }
 
 h2 {
