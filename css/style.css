@@ -1,6 +1,6 @@
 body {
   padding: 10px;
-  margin: 50px;
+  margin: 20px;
   font-family: "Times", sans-serif;
   overflow: hidden;
 }
@@ -50,7 +50,7 @@ body {
   background-color: pink;
   width: 100vw;
   z-index: 100;
-  margin: 20px;
+  margin: 50px;
   padding: 10px;
   visibility: hidden;
   font-weight: bold;
@@ -102,7 +102,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Times", sans-serif;
 }
 
 .source {
@@ -116,10 +116,10 @@ a.source:visited {
 }
 
 .description {
-  margin: 20px;
+  margin: 50px;
   text-align: left;
   font-size: 11pt;
-  padding: 20px;
+  padding: 10px;
   font-family: "Times", sans-serif;
   
 }
