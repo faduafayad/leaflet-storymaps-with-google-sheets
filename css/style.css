@@ -109,11 +109,11 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: white;
+  color: grey;
   font-family: "Oswald", sans-serif;
 }
 a.source:visited {
-  color: purple;
+  color: gray;
 }
 
 .description {
