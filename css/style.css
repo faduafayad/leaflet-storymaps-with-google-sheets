@@ -45,13 +45,13 @@ body {
 
 #title {
   position: absolute;
-  left: 20px;
-  top: 203px;
+  left: 0px;
+  top: 150px;
   background-color: white;
   width: 100vw;
   z-index: 100;
   margin: 0;
-  padding: 30px;
+  padding: 20px;
   visibility: hidden;
   font-weight: bold;
   text-align: center;
