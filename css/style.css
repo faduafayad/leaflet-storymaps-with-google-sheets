@@ -172,9 +172,9 @@ a.source:visited {
 
 /* Storymap title & subtitle */
 h1 {
-  margin: 20px 10px;
-  font-size: 1.5em;
-  padding: 20px;
+  margin: 20px;
+  font-size: 1.8em;
+  padding: 10px;
 }
 
 h2 {
