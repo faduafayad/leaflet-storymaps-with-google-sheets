@@ -2,7 +2,7 @@ Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,DISNEY AROUND THE WORLD,
 Storymap Subtitle,Discover which are the disneyland around the world<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
-Storymap Logo,,Path to a logo image
+Storymap Logo,https://www.freepnglogos.com/uploads/walt-disney-pictures-png-logo/walt-disney-where-dreams-come-true-png-logo-14.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
 Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles
